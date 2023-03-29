@@ -1,7 +1,9 @@
 ### Hi, my name is Nancy
 
 📚 A student in Web Development 📚
+<br>
 🌱 I’m currently learning HTML, CSS, JavaScript, C#, SQL 🌱
+</br>
 
 <!--
 **nancyreyess/nancyreyess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
